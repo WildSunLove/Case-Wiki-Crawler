@@ -1,0 +1,1 @@
+These files will crawl the entire Case wiki, pulling down an XML dump of every page, which can be imported into another wiki.  It will also get every file hosted on the site(Approx 2GB).
